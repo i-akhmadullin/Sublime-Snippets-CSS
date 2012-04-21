@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 border-top: ${1:}px ${2:solid} #${3:};
+${0}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bot</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
+	<description>border-top: px solid #;</description>
 </snippet>

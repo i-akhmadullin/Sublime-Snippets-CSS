@@ -2,8 +2,7 @@
 	<content><![CDATA[
 display: block;
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>db</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
+	<description>display: block;</description>
 </snippet>

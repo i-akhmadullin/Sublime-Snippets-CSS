@@ -2,8 +2,7 @@
 	<content><![CDATA[
 clear: ${1:right};
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cr</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
+	<description>clear: right;</description>
 </snippet>

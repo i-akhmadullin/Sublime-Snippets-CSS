@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 display: table-cell;
+${0}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>dtc</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
+	<description>display: table-cell;</description>
 </snippet>
