@@ -3,8 +3,20 @@ QSnippets-CSS
 
 Сниппеты для турбо-верстки CSS в Sublime Text 2  
 
-## Использование в файлах CSS
+## Примеры использования в файлах CSS
 
+`.` + `Tab` → 
+```css
+.| {
+  |
+};
+```  
+`#` + `Tab` → 
+```css
+#| {
+  |
+};
+``` 
 `bg` + `Tab` → `background: #|;`  
 `bgr` + `Tab` → `background-repeat: |repeat-x;`  
 `c` + `Tab` → `color: #|;`  
