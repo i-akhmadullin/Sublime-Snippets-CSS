@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-border-radius: ${1:}px ${2:}px;
+-webkit-border-radius: ${1:}px ${2:}px;
+   -moz-border-radius: ${1:}px ${2:}px;
+        border-radius: ${1:}px ${2:}px;
 ${0:}
 ]]></content>
 	<tabTrigger>br2</tabTrigger>

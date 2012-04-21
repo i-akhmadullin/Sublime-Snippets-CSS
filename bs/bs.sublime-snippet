@@ -1,9 +1,11 @@
 <snippet>
 	<content><![CDATA[
-background-size: ${1:cover};
+-webkit-box-shadow: ${1:0} ${2:1}px ${3:0}px #${5:};
+   -moz-box-shadow: ${1:0} ${2:1}px ${3:0}px #${5:};
+        box-shadow: ${1:0} ${2:1}px ${3:0}px #${5:};
+${0}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
+	<description>box-shadow: 0px 1px 0px #;</description>
 </snippet>

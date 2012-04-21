@@ -5,5 +5,5 @@ ${0}
 ]]></content>
 	<tabTrigger>bgp</tabTrigger>
 	<scope>source.css</scope>
-	<description>background-position: top left</description>
+	<description>background-position: px px</description>
 </snippet>
