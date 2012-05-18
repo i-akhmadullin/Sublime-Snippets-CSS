@@ -3,7 +3,7 @@
 letter-spacing: 0.${1:}em;
 ${0}
 ]]></content>
-	<tabTrigger>ls</tabTrigger>
+	<tabTrigger>les</tabTrigger>
 	<scope>source.css</scope>
 	<description>letter-spacing: 0.|em;</description>
 </snippet>

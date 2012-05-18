@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+-webkit-transition: ${1:all} ${2:0.3s} ${3:ease-out};
+   -moz-transition: ${1:all} ${2:0.3s} ${3:ease-out};
+	-ms-transition: ${1:all} ${2:0.3s} ${3:ease-out};
+	 -o-transition: ${1:all} ${2:0.3s} ${3:ease-out};
+		transition: ${1:all} ${2:0.3s} ${3:ease-out};
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<scope>source.css</scope>
+	<description>.|:after { | }</description>
+</snippet>

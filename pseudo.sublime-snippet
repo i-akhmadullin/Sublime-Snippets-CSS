@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+position: ${1:absolute};
+z-index: ${2:-1};
+display: ${3:block};
+width: ${4:30px};
+height: ${5:30px};
+content: '${6:▼}';
+]]></content>
+	<tabTrigger>pseudo</tabTrigger>
+	<scope>source.css</scope>
+	<description>:after of :before pseudo element</description>
+</snippet>

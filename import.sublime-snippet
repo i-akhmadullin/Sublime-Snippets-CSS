@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@import "${1:block}/${1:block}.css";
+]]></content>
+	<tabTrigger>@import</tabTrigger>
+	<scope>source.css</scope>
+	<description>import bem-style block</description>
+</snippet>
