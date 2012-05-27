@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 overflow-x: ${1:hidden};
-${0}
 ]]></content>
 	<tabTrigger>ox</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>overflow-x: hidden;</description>
 </snippet>

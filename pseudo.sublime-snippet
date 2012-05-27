@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 position: ${1:absolute};
-z-index: ${2:-1};
+z-index: ${2:1};
 display: ${3:block};
 width: ${4:30px};
 height: ${5:30px};

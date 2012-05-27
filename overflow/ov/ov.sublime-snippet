@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 overflow: visible;
-${0}
 ]]></content>
 	<tabTrigger>ov</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>overflow: visible;</description>
 </snippet>

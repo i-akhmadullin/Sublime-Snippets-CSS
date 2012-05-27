@@ -3,6 +3,6 @@
 float: none;
 ]]></content>
 	<tabTrigger>fln</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>float: none;</description>
 </snippet>

@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 list-style-type: none;
-${0}
 ]]></content>
 	<tabTrigger>lstn</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>list-style-type: none;</description>
 </snippet>

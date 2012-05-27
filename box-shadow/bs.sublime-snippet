@@ -1,11 +1,10 @@
 <snippet>
 	<content><![CDATA[
--webkit-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${5:};
-   -moz-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${5:};
-        box-shadow: ${1:0}px ${2:1}px ${3:0}px #${5:};
-${0}
+-webkit-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
+   -moz-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
+		box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
 ]]></content>
 	<tabTrigger>bs</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>box-shadow: 0px 1px 0px #;</description>
 </snippet>

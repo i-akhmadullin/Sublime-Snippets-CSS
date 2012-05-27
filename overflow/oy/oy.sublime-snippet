@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 overflow-y: ${1:scroll};
-${0}
 ]]></content>
 	<tabTrigger>oy</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>overflow-y: scroll;</description>
 </snippet>

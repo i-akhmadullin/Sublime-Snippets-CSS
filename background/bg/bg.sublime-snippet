@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-background: #${1:};
-${0}
+background: #${1:} url(${2:}) ${3:no-repeat} ${4:left} ${5:center};
 ]]></content>
 	<tabTrigger>bg</tabTrigger>
-	<scope>source.css</scope>
-	<description>background: #;</description>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
+	<description>background: #fff url repeat left center;</description>
 </snippet>

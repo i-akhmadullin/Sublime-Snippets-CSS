@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-color: #${1:};
-${0}
+color: ${1:red};
 ]]></content>
 	<tabTrigger>c</tabTrigger>
-	<scope>source.css</scope>
-	<description>color: #;</description>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
+	<description>color: red;</description>
 </snippet>

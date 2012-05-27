@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 margin: ${1:}px ${2:}px ${3:}px ${4:}px;
-${0}
 ]]></content>
 	<tabTrigger>m</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>margin: px px px px;</description>
 </snippet>

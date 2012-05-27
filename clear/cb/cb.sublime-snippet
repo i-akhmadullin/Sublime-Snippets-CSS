@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 clear: both;
-${0}
 ]]></content>
 	<tabTrigger>cb</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>clear: both;</description>
 </snippet>

@@ -7,6 +7,6 @@
 		transition: ${1:all} ${2:0.3s} ${3:ease-out};
 ]]></content>
 	<tabTrigger>tr</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>.|:after { | }</description>
 </snippet>

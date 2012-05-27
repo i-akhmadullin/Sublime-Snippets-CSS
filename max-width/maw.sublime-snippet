@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 max-width: ${1:}px;
-${0}
 ]]></content>
 	<tabTrigger>maw</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>max-width: px;</description>
 </snippet>

@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 padding-left: ${1:}px;
-${0}
 ]]></content>
 	<tabTrigger>pl</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>padding-left: px;</description>
 </snippet>

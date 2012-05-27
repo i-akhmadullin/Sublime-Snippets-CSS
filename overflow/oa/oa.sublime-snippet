@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 overflow: auto;
-${0}
 ]]></content>
 	<tabTrigger>oa</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
 	<description>overflow: auto;</description>
 </snippet>

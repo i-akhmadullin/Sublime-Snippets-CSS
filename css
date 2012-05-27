@@ -1,6 +1,3 @@
-Scope: 
-<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
-
 "visibility",
 "overflow-style",
 "clip",
@@ -115,7 +112,6 @@ Scope:
 "content",
 "counter-increment",
 "counter-reset",
-"vertical-align",
 
 "text-emphasis",
 "text-indent",
@@ -141,16 +137,13 @@ Scope:
 "-ms-filter:\'progid:DXImageTransform.Microsoft.Alpha",
 "filter:progid:DXImageTransform.Microsoft.Alpha(Opacity",
 "resize",
-"cursor",
+
 "nav-index",
 "nav-up",
 "nav-right",
 "nav-down",
 "nav-left",
-"-webkit-transition",
-"-moz-transition",
-"-o-transition",
-"transition",
+
 "-webkit-transition-delay",
 "-moz-transition-delay",
 "-o-transition-delay",
