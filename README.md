@@ -1,9 +1,9 @@
-QSnippets-CSS
+Sublime-Snippets-CSS
 =============
 
-Сниппеты для турбо-верстки CSS в Sublime Text 2  
+Snippets for productive CSS writing in Sublime Text 2. Also works for style tags in html files.  
 
-## Примеры использования в файлах CSS
+## Some usage examples
 
 `.` + `Tab` → 
 ```css
@@ -37,3 +37,5 @@ QSnippets-CSS
 `w%` + `Tab` → `width: |%;`  
 `w` + `Tab` → `width: |px;`  
 `z` + `Tab` → `z-index: |;`  
+
+Feel free to edit them to better suit your needs :)

@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>#</tabTrigger>
 	<scope>source.css</scope>
-	<description>#| { | }</description>
+	<description>Id block with braces</description>
 </snippet>

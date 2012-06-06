@@ -3,6 +3,8 @@
 top: ${1:}px;
 ]]></content>
 	<tabTrigger>t</tabTrigger>
-	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
+	<scope>source.css,
+	text.html.basic meta.tag.block.any.html string.quoted.double.html,
+	text.html.basic meta.tag.inline.any.html string.quoted.double.html</scope>
 	<description>top: px;</description>
 </snippet>

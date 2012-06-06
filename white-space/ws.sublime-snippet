@@ -3,6 +3,8 @@
 white-space: ${1:nowrap};
 ]]></content>
 	<tabTrigger>ws</tabTrigger>
-	<scope>source.css, text.html.basic meta.tag.block.any.html string.quoted.double.html</scope>
+	<scope>source.css,
+	text.html.basic meta.tag.block.any.html string.quoted.double.html,
+	text.html.basic meta.tag.inline.any.html string.quoted.double.html</scope>
 	<description>white-space: nowrap;</description>
 </snippet>
