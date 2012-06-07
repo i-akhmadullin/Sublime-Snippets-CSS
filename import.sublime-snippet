@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@import "${1:block}/${1:block}.css";
+@import "${1:block}/${1:block}.${2:css}";
 ]]></content>
 	<tabTrigger>@import</tabTrigger>
 	<scope>source.css</scope>
