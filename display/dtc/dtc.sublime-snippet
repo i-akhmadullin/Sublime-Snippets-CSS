@@ -3,7 +3,7 @@
 display: table-cell;
 ]]></content>
 	<tabTrigger>dtc</tabTrigger>
-	<scope>source.css,
+	<scope>source.css, source.stylus,
 	text.html.basic meta.tag.block.any.html string.quoted.double.html,
 	text.html.basic meta.tag.inline.any.html string.quoted.double.html</scope>
 	<description>display: table-cell;</description>
