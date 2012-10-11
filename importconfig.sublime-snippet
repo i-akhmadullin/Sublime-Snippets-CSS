@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@import '${1:../config}';
+]]></content>
+	<tabTrigger>import</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>import bem-style block</description>
+</snippet>

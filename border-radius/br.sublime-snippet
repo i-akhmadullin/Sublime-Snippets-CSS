@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 -webkit-border-radius: ${1:}px ${2:}px ${3:}px ${4:}px;
-   -moz-border-radius: ${1:}px ${2:}px ${3:}px ${4:}px;
         border-radius: ${1:}px ${2:}px ${3:}px ${4:}px;
 ${0:}
 ]]></content>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-background-image: url(${1:images/bg.jpg});
+background: url('${1:images/bg.jpg}') no-repeat;
 ]]></content>
 	<tabTrigger>bgi</tabTrigger>
 	<scope>source.css, source.stylus,

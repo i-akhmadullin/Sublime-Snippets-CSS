@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 -webkit-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
-   -moz-box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
 		box-shadow: ${1:0}px ${2:1}px ${3:0}px #${4:};
 ]]></content>
 	<tabTrigger>bs</tabTrigger>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+ie = true
+@import '${1:../if-ie}'
+@import '${2:$TM_FILENAME}'
+]]></content>
+	<tabTrigger>ifie</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>if-ie import (stylus)</description>
+</snippet>
